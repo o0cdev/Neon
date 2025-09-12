@@ -128,7 +128,7 @@ SQLite database automatically created at `neon_database.db`
 
 ## Author Information
 - **Author**: 0xo0c
-- **GitHub**: https://github.com/0xo0c
+- **GitHub**: https://github.com/o0cdev
 - **Discord**: 0xo0c
 - **Instagram**: instagram.com/o0ctf
 
