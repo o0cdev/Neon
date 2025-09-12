@@ -1,7 +1,11 @@
 # NEON - Purple Team Autonomous Platform
+![1](https://raw.githubusercontent.com/o0cdev/Neon/refs/heads/main/png/Showcase.png)
 
 ## Overview
 NEON is the most advanced Purple Team cybersecurity platform designed for autonomous threat simulation, detection, and response. Built by 0xo0c, this platform integrates MITRE ATT&CK scenarios, real-time telemetry collection, and intelligent detection rule optimization.
+## About
+
+![About](https://github.com/o0cdev/Neon/blob/main/png/About.png?raw=true)
 
 ## Features
 
@@ -33,6 +37,9 @@ NEON is the most advanced Purple Team cybersecurity platform designed for autono
 - Red Team Operations
 - Blue Team Defense
 - Threat Hunting Platform
+## Disclaimer
+
+![Disclaime](https://raw.githubusercontent.com/o0cdev/Neon/refs/heads/main/png/Disclaimer.jpg)
 
 ## Installation
 
