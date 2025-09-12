@@ -23,7 +23,7 @@ class NeonPlatform:
     def __init__(self):
         self.version = "1.0.0"
         self.author = "0xo0c"
-        self.github = "https://github.com/0xo0c"
+        self.github = "https://github.com/o0cdev"
         self.discord = "0xo0c"
         self.instagram = "instagram.com/o0ctf"
         self.db_path = "neon_database.db"
